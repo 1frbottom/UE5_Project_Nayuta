@@ -3,7 +3,7 @@
 > UE5 4인 로그라이크(리슨서버)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/07ae800f-dfed-4b8f-b5fb-366bfa07fd53" width="600" />
+  <img src=".preview_img/Project_Nayuta.gif" width="600" />
 </p>
 
 * 유튜브 ([Preview](https://youtu.be/VkQyTnjKNqA))
